@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR2_Composer_Interface.CSharp.Plugins", "AR2_Composer_Interface.CSharp.Plugins.csproj", "{262C0F54-8769-659A-C1F0-394CADAC51B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR2_Composer_Interface.CSharp", "AR2_Composer_Interface.CSharp.csproj", "{53A55E8A-5677-D605-B357-42041D49BA7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR2_Composer_Interface.CSharp.Editor", "AR2_Composer_Interface.CSharp.Editor.csproj", "{78F8EB72-0A85-53E0-3F73-99F853172B41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{262C0F54-8769-659A-C1F0-394CADAC51B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{262C0F54-8769-659A-C1F0-394CADAC51B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{262C0F54-8769-659A-C1F0-394CADAC51B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{262C0F54-8769-659A-C1F0-394CADAC51B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53A55E8A-5677-D605-B357-42041D49BA7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53A55E8A-5677-D605-B357-42041D49BA7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53A55E8A-5677-D605-B357-42041D49BA7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53A55E8A-5677-D605-B357-42041D49BA7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78F8EB72-0A85-53E0-3F73-99F853172B41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F8EB72-0A85-53E0-3F73-99F853172B41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F8EB72-0A85-53E0-3F73-99F853172B41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F8EB72-0A85-53E0-3F73-99F853172B41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

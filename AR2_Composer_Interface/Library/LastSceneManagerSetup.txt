@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/AR2_Composer_Interface.unity
+  isLoaded: 1
+  isActive: 1
